@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">👋 Halo, Saya Fikri!</h1>
+<h1 align="center">👋 Halo, Saya Gatra!</h1>
 <h3 align="center">Software Developer dari Indonesia 🇮🇩</h3>
 
 <p align="center">
