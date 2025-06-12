@@ -1,36 +1,50 @@
-## Hi there 👋
+```bash
+#!/usr/bin/zsh
 
-<h1 align="center">👋 Halo, Saya Gatra!</h1>
-<h3 align="center">Software Developer dari Indonesia 🇮🇩</h3>
+# ==============================
+#  Gatra Fikri - PROFILE
+# ==============================
 
-<p align="center">
-  <a href="https://github.com/fikrigatrh?tab=repositories">
-    <img src="https://komarev.com/ghpvc/?username=fikrigatrh&label=Profile%20Views&color=0e75b6&style=flat" alt="fikrigatrh" />
-  </a>
-  <a href="https://github.com/fikrigatrh">
-    <img src="https://img.shields.io/github/followers/fikrigatrh?label=Follow&style=social" alt="Follow" />
-  </a>
-</p>
+  ███████╗██╗██╗  ██╗██████╗ ██╗        ██████╗  █████╗ ████████╗██████╗ ██╗  ██╗
+  ██╔════╝██║██║ ██╔╝██╔══██╗██║        ██      ██╔══██╗╚══██╔══╝██╔══██╗██║  ██║
+  █████╗  ██║█████╔╝ ██████╔╝██║        ██████╔ ███████║   ██║   ██████╔╝███████║
+  ██╔══╝  ██║██╔═██╗ ██╔══██╗██║        ██╔══██╗██╔══██║   ██║   ██╔══██╗██╔══██║
+  ██║     ██║██║  ██╗██║  ██║███        ██████╔╝██║  ██║   ██║   ██║  ██║██║  ██║
+  ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══        ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
 
----
+# ==================== SYSTEM INFO ====================
+OS: Backend Engineering
+Host: github.com/fikrigatrh
+Shell: zsh 5.9
+Theme: powerlevel10k
 
-### 👨‍💻 Tentang Saya
-- 🌱 Aktif belajar memasak
-- 💬 Tanyakan tentang **development yang saya mengerti**
-- 📫 Hubungi saya: [fikrigatra4@gmail.com](mailto:fikrigatra4@gmail.com)
-- ⚡ Fakta: Penggemar bola dan otomasi
+# ==================== CURRENT STATUS ====================
+echo "$(date +'%Y-%m-%d %H:%M:%S') > Building microservices in Go"
 
----
+# ==================== EXPERTISE ====================
+print -P "%F{green} Primary Stack:%f"
+echo "• Playing Game           [██████████]"
+echo "• Cooking                [████████▁▁]"
+echo "• Watching Anime         [████████▁▁]"
+echo "• Read Manga             [███████▁▁▁]"
 
-### 🛠 Tech Stack
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+print -P "\n%F{blue} Secondary Tools:%f"
+echo "• Football               [█████▁▁▁▁▁]"
+echo "• Travelling             [████▁▁▁▁▁▁]"
+echo "• Read technology news   [████▁▁▁▁▁▁]"
+
+# ~/.zshrc - Fikri's Configuration
+export GOLANG_VERSION="1.20"
+export EDITOR="vim"
+
+# Aliases
+alias g="git"
+alias goplay="go run main.go"
+alias gob="go build"
+alias dockerup="docker-compose up -d"
+
+```
+
 
 ---
 
