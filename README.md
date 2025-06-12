@@ -15,11 +15,10 @@
 ---
 
 ### 👨‍💻 Tentang Saya
-- 🔭 Sedang mengerjakan proyek web development
-- 🌱 Aktif belajar **JavaScript, React, dan Node.js**
-- 💬 Tanyakan tentang **frontend development**
-- 📫 Hubungi saya: [fikri.gatrh@email.com](mailto:fikri.gatrh@example.com)
-- ⚡ Fakta: Penggemar kopi dan otomasi
+- 🌱 Aktif belajar memasak
+- 💬 Tanyakan tentang **development yang saya mengerti**
+- 📫 Hubungi saya: [fikrigatra4@gmail.com](mailto:fikrigatra4@gmail.com)
+- ⚡ Fakta: Penggemar bola dan otomasi
 
 ---
 
